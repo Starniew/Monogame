@@ -20,6 +20,8 @@ mindmap
 
 
 ```mermaid
+
+
 quadrantChart
 title Pac-Man — Feature Prioritization
 	x-axis Low Effort --> High Effort
@@ -37,6 +39,9 @@ title Pac-Man — Feature Prioritization
 	Ghost Move Quicker: [0.2, 0.2]
 ```
 
+MVP : Maze Movement, Bonus Fruit
+
+Reconsider : Online Leaderboard, SFX + jingle
 
 ```mermaid
 gantt
